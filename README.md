@@ -1,2 +1,2 @@
-# zedtopsmusic.com
+# zedtopsmusic
 Music distribution website 
